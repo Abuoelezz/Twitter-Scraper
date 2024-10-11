@@ -1,4 +1,4 @@
-# Twitter Stock Symbol Scraper
+# Twitter Scraper
 
 This Python script is designed to scrape Twitter pages of specified usernames to extract stock symbols mentioned in their tweets. It utilizes Selenium WebDriver along with BeautifulSoup for web scraping. The script periodically visits the Twitter profiles, extracts stock symbols from the tweets, and counts their occurrences.
 
